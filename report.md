@@ -7,4 +7,4 @@ This report summarizes the creation of a public repository to organically promot
 - **Content**: A detailed guide on governed execution, AI agents, and sandboxing, featuring how `runx` solves these challenges.
 - **Links Included**: Both `https://runx.ai` and `https://github.com/runxhq/runx` are prominently featured and contextualized.
 
-The repository is open-source and designed to attract developers looking for secure execution environments for AI agents.
+The repository is open-source and designed to attract developers looking for secure execution environments for AI agents. It serves as a comprehensive starting point.

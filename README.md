@@ -34,4 +34,4 @@ To learn more about how to integrate `runx` into your AI agent workflows, check 
 
 ## Conclusion
 
-Governed execution is not just a nice-to-have; it's a prerequisite for the future of autonomous AI. By leveraging tools like `runx`, we can build safer, more reliable AI systems.
+Governed execution is not just a nice-to-have; it's a prerequisite for the future of autonomous AI. By leveraging tools like `runx`, we can build safer, more reliable AI systems. Let's build safely together.

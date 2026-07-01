@@ -1,28 +1,25 @@
 {
+  "summary": "Created a comprehensive public repository tutorial on GitHub explaining governed execution, AI agents, and sandboxing using runx.",
+  "claim_type": "public_repo_tutorial",
+  "public_url": "https://github.com/umbtest03/runx-guide",
+  "runx_link_found": true,
+  "audience": "Developers, AI researchers, and engineers",
+  "why_allowed": "It creates organic awareness by providing genuine value and educational content about the core concepts runx solves.",
   "observations": [
     {
-      "type": "claim_type",
-      "value": "public_repo_tutorial"
+      "claim_type": "public_repo_tutorial"
     },
     {
-      "type": "public_url",
-      "value": "https://github.com/umbtest03/runx-guide"
+      "public_url": "https://github.com/umbtest03/runx-guide"
     },
     {
-      "type": "runx_link_found",
-      "value": true
+      "runx_link_found": true
     },
     {
-      "type": "summary",
-      "value": "Created a comprehensive public repository tutorial on GitHub explaining governed execution, AI agents, and sandboxing using runx."
+      "audience": "Developers, AI researchers, and engineers"
     },
     {
-      "type": "audience",
-      "value": "Developers, AI researchers, and engineers"
-    },
-    {
-      "type": "why_allowed",
-      "value": "It creates organic awareness by providing genuine value and educational content about the core concepts runx solves."
+      "why_allowed": "It creates organic awareness by providing genuine value and educational content about the core concepts runx solves."
     }
   ]
 }
